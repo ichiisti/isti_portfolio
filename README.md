@@ -1,4 +1,4 @@
-# **Isti's Portfolio**
+# **Portfolio**
 
 1. Project 1 : [ Gained and Lost Costumers ](https://github.com/ichiisti/gl)
 
