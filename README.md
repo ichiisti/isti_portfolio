@@ -1,3 +1,4 @@
+
 # **[Project 1: Gained and Lost Costumers ](https://github.com/ichiisti/gl)**
 
 *Objective:*
