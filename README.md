@@ -61,3 +61,17 @@ excel files
           3. level 3 - final dates are organized into "md" table type (dimension and fact table used for creating data models in BI )
 3. Data processing : data processing is done using T-SQL procedures. During data processing messages are inserted into log table.
 
+# **[Project 4: EtL process for flat files ](https://github.com/ichiisti/EtL_process)**
+
+*Objectives:*
+
+1. Retrieve all the required data from source files and load into database.
+
+*Calculation frequency:* Calculation is done on monthly basis for B2C ( business to consumer) and B2B ( business to business) consumers.\
+*Data source:* flat files.
+
+*Data processing:*
+1. Extract: get all the necessary information from source files.
+2. Transform : "lite" transformation stage.\
+3. Load : the newly prepared data is loaded into the database.
+
