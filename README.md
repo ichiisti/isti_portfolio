@@ -26,5 +26,11 @@ This project has 2 main objective:
 
 Create a general EtL process that can be used for retrieve all the required data from source files and load into database. The Etl process has a "lite" transformation stage.
 
+# **[Project 5: Consumption analysis ](https://github.com/ichiisti/consump_analysis)**
+
+*Objective:*
+
+This project has the objective to analyse the hourly consumption curve to determine efficiently and inefficiently traded quantities.
+
 
 
