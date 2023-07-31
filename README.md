@@ -2,16 +2,14 @@
 
 *Objective:*
 
-To monitor business performance, systematically analyze customer dynamics by calculating yearly gains and losses, tracking B2C churn rate, evaluating net changes in B2B customer base, and monitoring key competitors in both B2C and B2B markets.
+The main objective of this project is to monitor customer dynamics for B2C and B2B clients, by calculating yearly gains and losses, tracking churn rate, evaluating net changes in customer base, and monitoring key competitors in both B2C and B2B markets.
 
 
 # **[Project 2: Realised Gross Margin Calculation ](https://github.com/ichiisti/rgm_v1)**
 
 *Objectives:*
-1. Acqusisiton cost allocation on customer / hourly level, by using allocation keys. 
-2. Monthly cost calculation on costumer level based on hourly data. 
-3. Gross margin calculation on costumer level based on income, acqusition cost and fixed cost. 
 
+This project has the object to optimize financial analysis , by implementing a cost allocation system and calculating gross margins on a per-customer basis. 
 
 # **[Project 3: Estimated Gross Margin Calculation ](https://github.com/ichiisti/pgm)**
 
