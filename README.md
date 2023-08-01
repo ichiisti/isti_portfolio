@@ -1,9 +1,4 @@
 
-# **[Project 1: Gained and Lost Costumers ](https://github.com/ichiisti/gl)**
-
-*Objective:*
-
-This project has the objective to monitor customer dynamics for B2C and B2B clients, by calculating yearly gains and losses, tracking churn rate, evaluating net changes in customer base, and monitoring key competitors in both B2C and B2B markets.
 
 
 # **[Project 2: Realised Gross Margin Calculation ](https://github.com/ichiisti/rgm_v1)**
