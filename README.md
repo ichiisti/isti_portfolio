@@ -1,6 +1,3 @@
-
-
-
 # **[Project 2: Realised Gross Margin Calculation ](https://github.com/ichiisti/rgm_v1)**
 
 *Objective:*
