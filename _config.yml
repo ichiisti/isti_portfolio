@@ -3,4 +3,4 @@ plugins:
 - jekyll-remote-theme
 title: Isti Portfolio
 description: Analytics Portfolio
-show_downloads: ["true"]
+show_downloads: ["false"]
